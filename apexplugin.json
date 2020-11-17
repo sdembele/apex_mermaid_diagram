@@ -25,7 +25,7 @@
         "internalName" : "SD_APEX_MERMAID_DIAGRAM",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:9",
-        "previewImage" : "https://raw.githubusercontent.com/sdembele/apex_gen_qrcode_to_col-tab/master/apex_gen_qrcode_to_col-tab.png"
+        "previewImage" : "https://raw.githubusercontent.com/sdembele/apex_mermaid_diagram/main/apex_mermaid_diagram.gif"
       }
     }
   }
