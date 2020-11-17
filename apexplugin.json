@@ -1,0 +1,32 @@
+{
+  "name" : "APEX Mermaid Diagram",
+  "version" : "1.0",
+  "description" : "It generate some diagram by interpreting and converting your text code.",
+  "keywords" : ["Region", "Chart","Diagram", "Mermaid"],
+  "homepage" : "https://github.com/sdembele/apex_mermaid_diagram",
+  "bugs" : {
+    "url" : "https://github.com/sdembele/apex_mermaid_diagram/issues",
+    "email" : "dsouleman@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Souleman DEMBELE",
+    "email" : "dsouleman@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/sdembele/apex_mermaid_diagram"
+  },
+ "oracle" : {
+    "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
+    "apex": {
+      "versions": ["20.2.0"],
+      "plugin" : {
+        "internalName" : "SD_APEX_MERMAID_DIAGRAM",
+        "type" : "region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=79291:9",
+        "previewImage" : "https://raw.githubusercontent.com/sdembele/apex_gen_qrcode_to_col-tab/master/apex_gen_qrcode_to_col-tab.png"
+      }
+    }
+  }
+}
